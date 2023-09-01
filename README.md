@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @h43lb1t0
-- 👀 I’m interested in Python and Backend development
-- 🌱 I’m currently learning Java=> for university
+👋 Hi, I’m Tom (@h43lb1t0)
+
+Mainly I am interested in Python development, but through the university partly also in Java.
+
+Also, I am a big friend of open source and (almost) all of my public repos are open source. 
+
+Feel free to check out my [repositorys](https://github.com/h43lb1t0?tab=repositories)
 
 
 <!---
